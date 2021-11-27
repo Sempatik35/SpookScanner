@@ -2,7 +2,6 @@
 ScoopScanner discovers website ip address and open ports
 
 
-#İNSTALLATİON
 
 1- git clone https://github.com/Sempatik35/SpookScanner
 
