@@ -1,7 +1,7 @@
 # SpookScanner
 ScoopScanner discovers website real ip address and open ports
 
-# İNSTALLATİON!
+# İnstallation!
 
 1- apt install python3
 
