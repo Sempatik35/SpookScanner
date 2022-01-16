@@ -1,5 +1,5 @@
 # SpookScanner
-ScoopScanner discovers website real ip address and open ports
+SpookScanner discovers website real ip address and open ports
 
 # İnstallation!
 
