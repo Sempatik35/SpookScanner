@@ -5,7 +5,7 @@ SpookScanner discovers website real ip address and open ports
 
 1- apt install python3
 
-2- apt install sockets
+2- apt install sockets && apt install colorama
 
 3- git clone https://github.com/Sempatik35/SpookScanner
 
